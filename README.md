@@ -2,5 +2,5 @@
 Do the same steps in the previous project, but with another robot
 
 
-#ٌ Robot and maps
-I used robot and map frome
+## Robot and maps
+I used robot and map from
